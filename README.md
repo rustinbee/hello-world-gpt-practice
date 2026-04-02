@@ -1,3 +1,3 @@
 # hello-world-gpt-practice
 This repository is for branch and pull request practice
-# touch on the docs/forst-edit
+# touch on the docs/first-edit
